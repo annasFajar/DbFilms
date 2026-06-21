@@ -22,14 +22,14 @@ const DISCLAIMER_CONTENT = {
     {
       id: "welcome",
       content:
-        "Welcome to DbFilms - a free and open-source movie streaming website. Please read this disclaimer carefully before using this website.",
+        "Welcome to DbFilms - Please read this disclaimer carefully before using this website.",
     },
     {
       id: "purpose",
       content: "DbFilms is developed solely for",
       emphasis: "educational and learning purposes.",
       continuation:
-        "This website is an open-source project intended to demonstrate web development skills and is not meant to promote or encourage digital piracy in any form.",
+        "This website is an project to demonstrate web development skills and is not meant to promote or encourage digital piracy in any form.",
     },
     {
       id: "content-source",
