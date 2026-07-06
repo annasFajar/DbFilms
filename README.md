@@ -24,6 +24,10 @@
 - **The Movie Database (TMDB) API**
 - **Supabase**
 
+## Menjalankan Secara Lokal
+- **npm install**
+- **buat folder .env, (ikuti .env.example)**
+- **buat folder .env.local, (ikuti .env.local.example)**
 
 ## Website Yang Dikritik : https://tv11.lk21official.cc/
 ## Website Yang Dikembangkan : https://db-films.vercel.app/
