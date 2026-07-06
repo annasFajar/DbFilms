@@ -1,34 +1,29 @@
-# DbFilms - Free Movies & TV Shows Streaming
+# DbFilms - Dibuat Oleh:
+- 202343500321 Muhammad Daffa Ramadhan (UI/UX Designer)
+- 202343500375 Annas Fajar Ramadhan (Programmer)
+- 202343500346 Achmad Sodikin (Database Engginer)
 
-🍿DbFilms🍿 is an free movies and TV shows streaming platform built with the latest web technologies. It offers a seamless and enjoyable viewing experience, allowing users to discover, search, and enjoy a vast library of content.
 
-## Key Features
+## Fitur Yang Dikembangkan:
 
-- **🌗 Light and Dark Mode**: The application supports both light and dark modes, providing a customizable viewing experience that adapts to user preferences.
-- **🧭 Discover Content**: Users can browse through various content categories, such as popular, trending, and upcoming, to discover new movies and TV shows to enjoy.
-- **🔎 Powerful Search**: The search functionality allows users to easily find specific titles, actors, or genres, making it a breeze to locate the content they're interested in.
-- **📂 Personal Library**: Users can build their own personalized library of favorite movies and TV shows, making it easy to keep track of what they've watched and want to watch.
-- **💻📱 Responsive UI**: The platform's user interface is designed to be responsive and accessible across various devices, ensuring a consistent and enjoyable experience on desktops, tablets, and mobile devices.
-- **📲 Progressive Web App**: The platform is designed to be installable on devices and provide native-like features, ensuring a seamless and engaging experience for users.
-- **🙍‍♂️ User Account**: Users can create an account to access personalized features, such as a watchlist and history.
+- **🌗 Mode Gelap dan Terang**
+- **🧭 Konten Berdasarkan Filter**
+- **🔎 Pencarian Secara Spesifik**
+- **📂 Konten Favorit**
+- **🙍‍♂️ Akun Pribadi**
+- **💻📱 UI Responsif**
 
-## Other Features
 
-- **📺 TV Shows** (Finished)
-- **🙍‍♂️ User Account** (Finished)
+## Teknologi Yang Dipakai:
 
-## Technologies Used
+- **Next.js 15 App Router**
+- **Tailwind CSS 4**
+- **Next UI**
+- **TypeScript**
+- **TanStack Query**
+- **The Movie Database (TMDB) API**
+- **Supabase**
 
-DbFilms is built using the following technologies:
 
-- **Next.js 15 App Router**: The application leverages the latest version of Next.js, which includes the new App Router, providing a more intuitive and powerful development experience.
-- **Tailwind CSS 4**: The user interface is styled using the Tailwind CSS utility-first CSS framework, ensuring a visually appealing and responsive design.
-- **Next UI**: The project utilizes the Next UI library, which provides a set of high-quality, customizable React components that integrate seamlessly with Tailwind CSS.
-- **TypeScript**: The codebase is written in TypeScript, ensuring better type safety, developer productivity, and maintainability.
-- **TanStack Query**: The application uses the TanStack Query library for efficient data fetching and caching, providing a smooth and responsive user experience.
-- **The Movie Database (TMDB) API**: DbFilms integrates with the TMDB API to retrieve movie and TV show data, ensuring access to a vast and up-to-date content library.
-- **Supabase**: The project uses Supabase for user authentication and database management.
-
-## License
-
-DbFilms is licensed under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the application, as long as you include the original copyright and license notice in your work.
+Website Yang Dikritik : https://tv11.lk21official.cc/
+Website Yang Dikembangkan : https://db-films.vercel.app/
